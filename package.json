@@ -27,6 +27,9 @@
       "pre-commit": "lint-staged"
     }
   },
+  "peerDependencies": {
+    "core-js": "^2.5.7"
+  },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.1.0",
     "@babel/plugin-transform-runtime": "^7.1.0",

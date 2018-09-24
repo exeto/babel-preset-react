@@ -5,6 +5,7 @@
 ## Install
 
 ```sh
+$ yarn add core-js@^2.5.7
 $ yarn add --dev @exeto/babel-preset-react
 ```
 
