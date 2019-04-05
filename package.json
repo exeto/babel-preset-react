@@ -1,6 +1,6 @@
 {
   "name": "@exeto/babel-preset-react",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Babel preset for react app",
   "main": "lib/index.js",
   "repository": "exeto/babel-preset-react",
