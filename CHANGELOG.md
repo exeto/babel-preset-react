@@ -1,3 +1,7 @@
+# 0.2.2 / 2019-10-20
+
+- Declare the package is deprecated
+
 # 0.2.1 / 2019-04-05
 
 - Declaring a `core-js` version
