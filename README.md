@@ -2,6 +2,8 @@
 
 > Babel preset for react app
 
+**THIS PACKAGE IS NO LONGER MAINTAINED**
+
 ## Install
 
 ```sh

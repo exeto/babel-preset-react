@@ -3,7 +3,7 @@
   "version": "0.2.1",
   "description": "Babel preset for react app",
   "main": "lib/index.js",
-  "repository": "exeto/babel-preset-react",
+  "repository": "exeto-archive/babel-preset-react",
   "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/en)",
   "license": "MIT",
   "engines": {
